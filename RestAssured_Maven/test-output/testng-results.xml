@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6424" started-at="2021-11-27T19:31:09 GST" finished-at="2021-11-27T19:31:15 GST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6424" started-at="2021-11-27T19:31:09 GST" finished-at="2021-11-27T19:31:15 GST">
+      <class name="RestAPIXML.XMLRequest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:RestAPIXML.XMLRequest@52feb982]" name="test1" duration-ms="3644" started-at="2021-11-27T19:31:09 GST" finished-at="2021-11-27T19:31:13 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:RestAPIXML.XMLRequest@52feb982]" name="test2" duration-ms="1752" started-at="2021-11-27T19:31:13 GST" finished-at="2021-11-27T19:31:14 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:RestAPIXML.XMLRequest@52feb982]" name="test3" duration-ms="970" started-at="2021-11-27T19:31:14 GST" finished-at="2021-11-27T19:31:15 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- RestAPIXML.XMLRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
